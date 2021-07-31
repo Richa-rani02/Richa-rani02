@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Richa</h1>
-<h3 align="center">A passionate Mobile App Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking for an opportunity to work on **Spring projects**
 
-- 🤔 I’m looking for help with **Api Integration**
+- 🤔 I’m looking for help with **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Richa-rani02](https://github.com/Richa-rani02)
 
