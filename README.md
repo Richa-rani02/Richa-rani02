@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richa</h1>
 <h3 align="center">A passionate Full Stack  Developer</h3>
 
-- 🔭 I’m currently learning **REACT**
+- 🔭 I’m currently learning **REACT js**
 
 - 👯 I’m looking for an opportunity to work on **Web Development projects**
 
