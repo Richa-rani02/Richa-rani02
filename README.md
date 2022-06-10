@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Richa</h1>
-<h3 align="center">A passionate Full Stack  Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
-- 🔭 I’m currently learning **REACT js**
+- 🔭 I’m currently learning **Typescript**
 
 - 👯 I’m looking for an opportunity to work on **Web Development projects**
 
-- 🤔 I’m looking for help with **Microservices**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Richa-rani02](https://github.com/Richa-rani02)
 
-- 💬 Ask me about **Android,java,php,Ds,Algo,html ,css ,javascript**
+- 💬 Ask me about **React js, Html,css,javascript,Tailwind css, Scss, Firebase**
 
 - 📫 How to reach me **richa.rani1997@gmail.com**
 
