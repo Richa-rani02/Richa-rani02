@@ -11,11 +11,6 @@
 
 - 📫 How to reach me **richa.rani1997@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/richa-rani02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/richa-rani02/" height="30" width="40" /></a>
-</p>
-
     <p align="left"><img src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="html" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="css" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png" alt="react" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png" alt="springboot" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=richa-rani02&show_icons=true&theme=radical" alt="richa-rani02" /> </p>
 
 <p align="center">1`
